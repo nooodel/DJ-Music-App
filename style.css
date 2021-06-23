@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+}
+
+.note {
+    font-size: 15px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.heading {
+    background-color: orangered;
+    color: white;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+}
+
+.songName {
+    background-color: orange;
+    margin: 10px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px black;
+    border: 5px solid black;
+}
+
+h3{
+    font-family: 'Arvo', serif;
+}
